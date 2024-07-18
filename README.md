@@ -4,6 +4,7 @@ I like to consider that I am an educated and friendly person. Always willing to 
 I take my obligations seriously but I like to do them with joy. Working on personal projects.
 
 Right now I am a Computer Science student at EINA-UNIZAR (University of Zaragoza). 
+
 Also I'm working on a project about a real time controller for a videogame.
 
 # Programming languages ​​I know:
