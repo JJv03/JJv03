@@ -24,6 +24,8 @@ Also I'm working on a project about a real time controller for a videogame.
 
 # Interesting libraries ​​I know:
 
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF7600?style=for-the-badge&logo=gazebo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%20?style=for-the-badge&logo=OpenCV&color=%235C3EE8)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
