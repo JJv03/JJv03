@@ -22,7 +22,7 @@ Also I'm working on a project about a real time controller for a videogame.
 ![Flutter](https://img.shields.io/badge/Flutter-%20?style=for-the-badge&logo=Flutter&color=%2302569B)
 ![Dart](https://img.shields.io/badge/Dart-%20?style=for-the-badge&logo=Dart&color=%230175C2)
 
-# Interesting libraries ​​I know:
+# Interesting libraries and programms ​​I know:
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7600?style=for-the-badge&logo=gazebo&logoColor=white)
