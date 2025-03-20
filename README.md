@@ -24,6 +24,7 @@ Also I'm working on a project about a real time controller for a videogame.
 
 # Interesting libraries and programms ​​I know:
 
+![SFML](https://img.shields.io/badge/SFML-008080?style=for-the-badge&logo=SFML&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7600?style=for-the-badge&logo=gazebo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%20?style=for-the-badge&logo=OpenCV&color=%235C3EE8)
