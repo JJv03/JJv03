@@ -3,7 +3,7 @@ I am a person who is constant in my work and studies, who has no problems workin
 I like to consider that I am an educated and friendly person. Always willing to learn and improve. 
 I take my obligations seriously but I like to do them with joy. Working on personal projects.
 
-Right now I am a Computer Science student at EINA-UNIZAR (University of Zaragoza). 
+I am graduated at Computer Science at EINA-UNIZAR (University of Zaragoza). 
 
 Also I'm working on a project about a real time controller for a videogame.
 
