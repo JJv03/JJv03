@@ -27,6 +27,8 @@ Also I'm working on a project about a real time controller for a videogame.
 ![SFML](https://img.shields.io/badge/SFML-008080?style=for-the-badge&logo=SFML&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7600?style=for-the-badge&logo=gazebo&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/stable--baselines3-000000?style=for-the-badge&logo=python&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A7?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%20?style=for-the-badge&logo=OpenCV&color=%235C3EE8)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
