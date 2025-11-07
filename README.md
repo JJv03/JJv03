@@ -23,6 +23,7 @@ Also I'm working on a project about a real time controller for a videogame.
 
 ![SFML](https://img.shields.io/badge/SFML-008080?style=for-the-badge&logo=SFML&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ros2-1B243F?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7600?style=for-the-badge&logo=gazebo&logoColor=white)
 ![Stable-Baselines3](https://img.shields.io/badge/stable--baselines3-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A7?style=for-the-badge&logo=python&logoColor=white)
