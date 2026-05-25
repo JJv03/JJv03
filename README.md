@@ -18,6 +18,7 @@ Also I'm working on a project about a real time controller for a videogame.
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%20?style=for-the-badge&logo=Flutter&color=%2302569B)
 ![Dart](https://img.shields.io/badge/Dart-%20?style=for-the-badge&logo=Dart&color=%230175C2)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 # Interesting libraries and programms ​​I know:
 
