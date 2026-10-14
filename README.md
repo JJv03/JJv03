@@ -7,7 +7,7 @@ I graduated in Computer Science at EINA-UNIZAR (University of Zaragoza) and I am
 
 Also, I'm working on a project about a real-time controller for a videogame. For now, it's based on Computer Vision, but who knows how it will evolve ^^.
 
-[Link to my personal portfolio](https://jjv03.github.io/)
+🔗 **Links:** [Personal Portfolio](https://jjv03.github.io/) | [LinkedIn](https://www.linkedin.com/in/juan-valle-morenilla-0ab5b7231)
 
 # Programming languages ​​I know:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
