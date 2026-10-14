@@ -5,7 +5,9 @@ I take my obligations seriously but I like to do them with joy. Working on perso
 
 I am graduated at Computer Science at EINA-UNIZAR (University of Zaragoza) and studying a master on Robotics, Graphics and Computer Vision. 
 
-Also I'm working on a project about a real time controller for a videogame.
+Also, I'm working on a project about a real-time controller for a videogame. For now, it's based on Computer Vision, but who knows how it will evolve ^^.
+
+[Link to my personal portfolio](https://jjv03.github.io/)
 
 # Programming languages ​​I know:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
